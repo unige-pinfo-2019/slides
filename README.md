@@ -14,3 +14,9 @@ Slides, Material, etc.
      - identify the SysAdmin & ProjectLeader
 
  - Checkout your Project & Write this information into the README.md
+
+
+# Choose a project (in your team)
+ - Think about the project. Purpose? Requirements?
+ - Create a presentation for next week (3 slides - 5 minutes)
+ 
