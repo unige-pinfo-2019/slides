@@ -14,7 +14,7 @@ Slides, Material, etc.
      - identify the SysAdmin & ProjectLeader
 
  - Checkout your Project & Write this information into the README.md
-
+ - Make sure that you followed the part 1 of the tutorial at : http://www.hostettler.net/2019/02/17/microservice-architecture-part-1.html and that you have 4 running services.
 
 # Choose a project (in your team)
  - Think about the project. Purpose? Requirements?
